@@ -1,0 +1,5 @@
+numpy>=1.24
+numba>=0.59
+Pillow>=10.0
+opencv-python>=4.8
+pytest>=8.0
